@@ -18,5 +18,5 @@
 ### 💻 Workspace Spec
 <img width="48" height="48" src="https://img.icons8.com/color/48/dell--v1.png" alt="dell--v1"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-### 🧑🏻‍💻 Leetocde Stats <br>
+### 🧑🏻‍💻 Leetocde Stats (Using C++) <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Chandhru_27?theme=dark&font=Ubuntu)
