@@ -2,7 +2,7 @@
 
 **Student 🎓 @ 🏫 Rajalakshmi Engineering College.** <br>
  *Department of Artificial Intelligence 🤖 and Data Science 🔬*.
-- 🌱 I’m currently learning DSA and Multiple Tech stack.
+- 🌱 I’m currently exploring AI/ML and Data Science.
 - 📑 Enthusiast in Learning and Creating Tech
 - ⚡ Fun fact: I can write gripping screenplays.
 - 🌍 Social Presence <br><br>
