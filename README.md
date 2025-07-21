@@ -14,7 +14,7 @@
 
 
 ### IDE I Use
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50" style="margin-right:10px;"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="50" style="margin-right:10px;"/><img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height="50" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50" style="margin-right:15px;"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="50" style="margin-right:15px;"/><img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height="50" style="margin-right:15px;"/>
 
 ### 💻 Workspace Spec
 <img width="48" height="48" src="https://img.icons8.com/color/48/dell--v1.png" alt="dell--v1"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
