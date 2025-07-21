@@ -9,7 +9,11 @@
  &nbsp;&nbsp;&nbsp;[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/chandhrul27/) &nbsp;[<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/chandhru_27/)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src=["https://img.icons8.com/color/48/000000/c-programming.png"](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000) />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
+
 
 
 ### IDE I Use
