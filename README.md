@@ -9,7 +9,14 @@
  &nbsp;&nbsp;&nbsp;[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/chandhrul27/) &nbsp;[<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/chandhru_27/)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
+<img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/color/48/000000/python.png" height="40" style="margin-right:10px;" />
+<img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" height="40" />
 
 
 
